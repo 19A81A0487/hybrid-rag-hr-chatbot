@@ -57,9 +57,27 @@ Augmentation: Hard filters (skills, experience, etc.)
 Generation: Template-based, readable suggestions
 
 
-**🛠️ Setup & Installation
-**🔧 Requirements
 
+---
+
+## 🛠️ **Setup & Installation**
+
+### 🔧 **Requirements**
+
+- Python 3.8 or above
+- pip (Python package installer)
+- FastAPI, Uvicorn
+- Streamlit
+- SentenceTransformers
+- FAISS CPU version
+
+---
+
+### 📦 **Install Dependencies**
+
+Using `requirements.txt`:
+
+```bash
 pip install -r requirements.txt
 
 
@@ -70,7 +88,7 @@ uvicorn app:app --reload
 
 Run Frontend
 
-Run Frontend
+streamlit run frontend.py
 
 
 
