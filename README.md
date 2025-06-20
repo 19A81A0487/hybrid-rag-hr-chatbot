@@ -1,3 +1,6 @@
+
+
+
 # 🤖 HR Resource Query Chatbot
 
 ## 📘 Overview
@@ -11,6 +14,33 @@ The **HR Resource Query Chatbot** is an intelligent assistant that helps HR prof
 The system uses **FAISS + sentence-transformers** for vector-based retrieval and **template-based generation** for natural responses, making it fast, local, and API-free.
 
 ---
+
+
+## 📌 Note for Reviewers / Evaluators
+
+All required code files, screenshots of working demo (`FastAPI` and `Streamlit`), and dataset are included in this submission.
+
+To run the application locally:
+
+- First, start the backend API by running `app.py` with the command:
+  ```bash
+  uvicorn app:app --reload
+
+This will make the FastAPI backend available at http://localhost:8000.
+
+Then, in a separate terminal, start the frontend by running:
+
+
+streamlit run frontend.py
+This will launch the HR chatbot UI at http://localhost:8501.
+
+The application is fully functional and has been tested with multiple HR queries like “Find Python developers with 3+ years experience”. You can refer to the attached screenshots for visual confirmation. No external APIs or API keys are required to run this project.
+
+
+
+
+
+
 
 ## ✅ Features
 
