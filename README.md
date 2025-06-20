@@ -221,3 +221,21 @@ Maya Gupta,"['Python', 'NLP']",4,"['Resume Parser']",Available
 
 
 
+
+## 📸 Working Demo Screenshots
+
+### 💬 1. Streamlit Chat UI (`http://localhost:8501`)
+![Streamlit Chat UI](streamlit_ui.png)  
+*User-friendly interface where HR can type natural queries and view matching employee suggestions.*
+
+---
+
+### 🧪 2. FastAPI Swagger Docs (`http://localhost:8000/docs`)
+![FastAPI Docs](fastapi_docs.png)  
+*API testing and documentation for backend endpoints like `/chat` and `/employees/search`.*
+
+---
+
+### 🟢 3. Backend Root (`http://localhost:8000`)
+![Backend Root](backend_root.png)  
+*Confirms FastAPI server is running and reachable.*
