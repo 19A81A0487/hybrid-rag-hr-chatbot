@@ -1,0 +1,16 @@
+name,skills,experience_years,past_projects,availability
+Alice Johnson,"['Python', 'Django', 'AWS']",4,"['Healthcare AI', 'HR Analytics']",Available
+Bob Smith,"['React', 'Node.js', 'Docker']",3,['E-commerce App'],Busy
+Charlie Davis,"['Java', 'Spring Boot', 'AWS', 'Docker']",5,['Banking Backend'],Available
+Diana Ray,"['Python', 'Flask', 'ML']",2,['Healthcare Chatbot'],Available
+Ethan Hunt,"['React Native', 'Firebase']",3,['Travel App'],Busy
+Fiona Gomez,"['C++', 'Embedded Systems']",4,['IoT Monitoring'],Available
+George Kim,"['Python', 'Pandas', 'Scikit-learn']",2,['Retail Forecasting'],Available
+Hannah Lee,"['JavaScript', 'Vue.js', 'Node.js']",3,['Inventory Dashboard'],Available
+Ian Wright,"['Python', 'AWS', 'Docker']",6,['Healthcare DevOps'],Busy
+Jasmine Patel,"['React Native', 'UI/UX']",4,['Food Delivery App'],Available
+Kiran Rao,"['Java', 'Docker', 'Kubernetes']",5,['Banking Infrastructure'],Busy
+Liam Smith,"['Python', 'FastAPI', 'MongoDB']",3,['Medical Records API'],Available
+Maya Gupta,"['Python', 'NLP', 'Transformers']",4,['Resume Parser'],Available
+Nikhil Sharma,"['AWS', 'Terraform', 'DevOps']",3,['Cloud Migration'],Available
+Olivia Thomas,"['React', 'Redux', 'Node.js']",2,['Social Media App'],Busy
