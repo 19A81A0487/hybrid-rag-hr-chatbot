@@ -88,24 +88,22 @@ Generation: Template-based, readable suggestions
 
 
 
----
-
 ## 🛠️ **Setup & Installation**
 
 ### 🔧 **Requirements**
 
-- Python 3.8 or above
-- pip (Python package installer)
-- FastAPI, Uvicorn
-- Streamlit
-- SentenceTransformers
-- FAISS CPU version
+- ✅ Python 3.8 or above  
+- ✅ pip (Python package installer)  
+- ✅ FastAPI  
+- ✅ Uvicorn  
+- ✅ Streamlit  
+- ✅ SentenceTransformers  
+- ✅ FAISS (CPU version)
 
----
 
 ### 📦 **Install Dependencies**
 
-Using `requirements.txt`:
+If you have a `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
